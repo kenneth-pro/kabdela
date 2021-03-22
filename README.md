@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kenneth-pro
 - 👀 I’m interested in full stack Dev(JS, TS, Java, C#, html, css) and Big data (Spark, DataBricks)
 - 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on Full stack we dev and Big data.
+- 💞️ I’m looking to collaborate on Full stack web development and Big data.
 - 📫 You can reach me here.
 
 <!---
